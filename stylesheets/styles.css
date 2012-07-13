@@ -240,12 +240,14 @@ h1.header, a.header, a.name, header a{
   color: #fff;
 }
 
-h1.logo {
+.logo {
   background: url(../images/logox150.png) no-repeat 1px;
   width:110px;
   height:150px;
   margin-left: 25px;
   margin-bottom: 15px;
+  margin-top: 0;
+  border-bottom: none;
 }
 
 a.header {
