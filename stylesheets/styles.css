@@ -248,6 +248,11 @@ h1.header, a.header, a.name, header a{
   margin-bottom: 15px;
   margin-top: 0;
   border-bottom: none;
+  display: block;
+}
+
+.logo:hover {
+  background: url(../images/nyan_cat.gif) no-repeat 1px;
 }
 
 a.header {
